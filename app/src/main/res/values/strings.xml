@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AWTY</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">ARE WE THERE YET?</string>
+    <string name="ButtonName">START</string>
+    <string name="message">message</string>
+</resources>
